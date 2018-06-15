@@ -1,0 +1,54 @@
+﻿[
+  {
+    "ComputerName": "maduka-nb",
+    "ProcessName": [
+      {
+        "Name": "word",
+        "Mode": "Alert",
+        "Directory": "",
+        "Path": "",
+        "Args": ""
+      },
+      {
+        "Name": "excel",
+        "Mode": "Alert",
+        "Directory": "",
+        "Path": "",
+        "Args": ""
+      },
+      {
+        "Name": "FaceDetectApp",
+        "Mode": "restart",
+        "Directory": "D:\\Turn2Cloud Projects\\FaceToSignIn\\FaceToSignIn\\FaceDetectApp\\bin\\Debug\\",
+        "Path": "D:\\Turn2Cloud Projects\\FaceToSignIn\\FaceToSignIn\\FaceDetectApp\\bin\\Debug\\FaceDetectApp.exe",
+        "Args": "start"
+      }
+    ]
+  },
+  {
+    "ComputerName": "maduka-nb",
+    "ProcessName": [
+      {
+        "Name": "word",
+        "Mode": "Alert",
+        "Directory": "",
+        "Path": "",
+        "Args": ""
+      },
+      {
+        "Name": "word",
+        "Mode": "Alert",
+        "Directory": "",
+        "Path": "",
+        "Args": ""
+      },
+      {
+        "Name": "word",
+        "Mode": "Alert",
+        "Directory": "",
+        "Path": "",
+        "Args": ""
+      }
+    ]
+  }
+]
